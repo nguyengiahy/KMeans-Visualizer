@@ -7,4 +7,5 @@ How to use:
 3. pip install sklearn
 4. python KMeans-Visualizer.py
 <br/>
-![KMeans](https://media.giphy.com/media/qsQO8ZHqD5BiSwwEjH/giphy.gif)
+
+![robo](https://media.giphy.com/media/qsQO8ZHqD5BiSwwEjH/giphy.gif)
