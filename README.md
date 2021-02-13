@@ -1,6 +1,6 @@
 # KMeans-Visualizer
-KMeans algorithm visualizer 
-<br/>
+<b>KMeans algorithm visualizer</b>
+<br/></br>
 How to use:
 1. Open cmd
 2. pip install pygame
